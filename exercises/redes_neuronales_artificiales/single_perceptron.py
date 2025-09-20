@@ -48,7 +48,7 @@ set_logging(log_file='single_perceptron.log')
 #
 class InputData:
     def __init__(self):
-        pass
+        pass 
 
 clog(InputData)
 
